@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+* Computer Engineer graduate from [Escola Politécnica - USP](https://www.poli.usp.br/)
+* Over 20 years working with software development
+* Currently working for [Kobold](https://www.kobold.com.br/).
 
 <!--
 **daniloshibata/daniloshibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
